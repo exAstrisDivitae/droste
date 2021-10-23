@@ -1,5 +1,6 @@
-# droste
-The Droste Effect
+# The Droste Effect
+https://github.com/exAstrisDivitae/droste/
+
 This project provides a JavaScript code base for The Droste Effect. 
 Over time, files will be added to the repository, and thus the functionality and potential applications of the software will be expanded. 
 Please stay tuned, and be sure to update the repository on your local drive as frequently as new code is added. 
